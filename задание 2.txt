@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Задание №2</title>
+    <link rel="stylesheet" href="styles2.css">
+<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=kYTiBxuiibr2RX5rc0nucAWBEtZldOOQFAp67oE6XvqWTQ3gr2IYSoOV_-agrkY8oMHFkqYNCApVCEDEjBivBeNwFKJCOzAasdVm_6X5Ui8" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://ff.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly9yYXB0b3ItbXZrLmdpdGh1Yi5pby9xYS1odG1sLWNzcy1ob21ld29yay90YXNrMi5odG1s"/></head>
+<body>
+<a href="task_main.html">Вернуться к списку заданий</a>
+<p class="green">Это красный текст</p>
+<p class="red" style="color:green">Это тоже красный текст</p>
+<p class="italic">Это полужирный текст</p>
+<p class="bold">Это <i>тоже полужирный</i> текст</p>
+<p>Все элементы следующего списка (включая подсписок) имеют разные цвета и ни один из них не чёрный:</p>
+<ul>
+    <li color="green">Элемент списка</li>
+        <ol>
+            <li color="red">Первый элемент подсписка</li>
+            <li style="color:red">Второй элемент подсписка</li>
+        </ol>
+    <li style="color:green">Ещё один элемент списка</li>
+</ul>
+<p><span class="xxsmall">В</span> <span font-size="xsmall">этом</span>
+    <b class="medium">абзаце</b> <span class="xlarge">все</span> <span large>слова</span>
+    <span font="size=small">разного</span> <span size="xxlarge">размера</span></p>
+</body>
+</html>
